@@ -15,10 +15,7 @@ BART for Knowledge Grounded Conversations
 Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans
 Workshop on *Conversational Systems Towards Mainstream Adoption*, KDD Converse 2020
 
-## Challenges
-
 ## Proofs of Technology
 ### Car insurance chatbot for Belfius
-In this work [LINK] different data augmentation methods were tested to lift the performance of Belfius’ less-used French car insurance bot to the level of the more frequently used Dutch system. These methods include back-translation, paraphrasing and question generation.
+In this work different data augmentation methods were tested to lift the performance of Belfius’ less-used French car insurance bot to the level of the more frequently used Dutch system. These methods include back-translation, paraphrasing and question generation.
 
-## Software
