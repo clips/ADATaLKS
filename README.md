@@ -12,7 +12,7 @@ The focus of ADA TaLKS is on:
 
 ## Publications
 BART for Knowledge Grounded Conversations  
-Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans
+Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans  
 Workshop on *Conversational Systems Towards Mainstream Adoption*, KDD Converse 2020
 
 ## Proofs of Technology
