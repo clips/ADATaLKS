@@ -1,4 +1,6 @@
-
+---
+title: ADA TaLKS
+---
 
 ADA TaLKS (Adaptive Dialogue Agents, based on Task-oriented Learning with Knowledge and Senses) is the [CLiPS](https://www.uantwerpen.be/en/research-groups/clips/) research part of the [Flemish AI Program](https://www.ewi-vlaanderen.be/sites/default/files/bestanden/presentatie_imec.pdf) focusing on conversational agents as part of the human-like AI challenge. Within our work package we cooperate with the Universities of Leuven ([LIIR](https://liir.cs.kuleuven.be)), Brussels ([AI-LAB](https://ai.vub.ac.be)) and Ghent ([LT3](https://lt3.ugent.be) and [K2T](https://ugentt2k.github.io)).
 
