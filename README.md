@@ -15,7 +15,8 @@ The focus of ADA TaLKS is on enabling a flexible method for incorporating and up
 ## Publications
 BART for Knowledge Grounded Conversations  
 Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans  
-Workshop on *Conversational Systems Towards Mainstream Adoption*, KDD Converse 2020
+Workshop on *Conversational Systems Towards Mainstream Adoption*, KDD Converse 2020  
+[![video(http://img.youtube.com/vi/Fmg9jUPktyU/0.jpg)]](http://www.youtube.com/watch?v=Fmg9jUPktyU&feature=youtu.be)
 
 ## Proofs of Technology
 #### Car insurance chatbot for Belfius
