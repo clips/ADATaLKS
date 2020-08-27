@@ -18,6 +18,8 @@ Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans
 Workshop on *Conversational Systems Towards Mainstream Adoption*, KDD Converse 2020  
 [![video](http://img.youtube.com/vi/Fmg9jUPktyU/0.jpg)](http://www.youtube.com/watch?v=Fmg9jUPktyU&feature=youtu.be)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fmg9jUPktyU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Proofs of Technology
 #### Car insurance chatbot for Belfius
 In this work different data augmentation methods were tested to lift the performance of Belfius’ less-used French car insurance bot to the level of the more frequently used Dutch system. These methods include back-translation, paraphrasing and question generation.
