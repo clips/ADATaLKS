@@ -13,7 +13,7 @@ The focus of ADA TaLKS is on enabling a flexible method for incorporating and up
 - [Ehsan Lotfi](https://www.uantwerpen.be/en/staff/ehsan-lotfi/)
 
 ## Publications
-BART for Knowledge Grounded Conversations  
+[BART for Knowledge Grounded Conversations](http://ceur-ws.org/Vol-2666/KDD_Converse20_paper_7.pdf)  
 Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans  
 Workshop on *Conversational Systems Towards Mainstream Adoption*, KDD Converse 2020  
 
