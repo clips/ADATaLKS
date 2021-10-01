@@ -13,12 +13,12 @@ Research by Mingxiao Li from LIIR - KULeuven
 <video src="https://user-images.githubusercontent.com/58225321/135623484-e83bd354-38c3-4137-9a45-d69a979a9650.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
-
-## Modelling Emotion Trajectories in Customer Service Dialogues
-Research by Sofie Labat from LT3 - UGent
-<video src="https://user-images.githubusercontent.com/58225321/135624263-b1ddf04c-52a5-44c3-8082-f2086f54404d.mp4" controls="controls" style="max-width: 730px;">
-</video>
-
+<span style="background-color:green"> 
+  ## Modelling Emotion Trajectories in Customer Service Dialogues 
+  Research by Sofie Labat from LT3 - UGent
+  <video src="https://user-images.githubusercontent.com/58225321/135624263-b1ddf04c-52a5-44c3-8082-f2086f54404d.mp4" controls="controls" style="max-width: 730px;">
+  </video>
+</span>
 
 ## Building up Knowledge through Dialogue
 Research by Lara Verheyen from [AILab](https://ai.vub.ac.be/) - VUB
