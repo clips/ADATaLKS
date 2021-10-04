@@ -24,11 +24,6 @@ Research by Sofie Labat from [LT3](https://lt3.ugent.be) - UGent
 <br>
 
 
-
-
-
-
-
 ## Building up Knowledge through Dialogue
 Research by Lara Verheyen from [AILab](https://ai.vub.ac.be/) - VUB
 <video src="https://user-images.githubusercontent.com/58225321/135647319-846f8ea7-4ae0-43ef-b406-98abe3b547e5.mp4" controls="controls" style="max-width: 730px;">
@@ -37,13 +32,13 @@ Research by Lara Verheyen from [AILab](https://ai.vub.ac.be/) - VUB
 <br>
 
 
-
-
 ## Knowledge Grounded Conversation with Pre-trained Models
 Research by Ehsan Lotfi from [CLiPS](https://www.uantwerpen.be/en/research-groups/clips/) - UAntwerpen
+<video src="https://user-images.githubusercontent.com/58225321/135810008-7820b1df-5769-4c29-9dfd-e0b262f7b740.mp4" controls="controls" style="max-width: 730px;">
+</video>
+<br>
+<br>
 
-<br>
-<br>
 
 ## Multilingual FAQ
 Research by Maxime de Bruyn from [CLiPS](https://www.uantwerpen.be/en/research-groups/clips/) - UAntwerpen
