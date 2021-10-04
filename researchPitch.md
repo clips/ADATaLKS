@@ -63,7 +63,7 @@ Research by Yiwei Jiang from [IDLab](https://www.ugent.be/ea/idlab/en) - UGent
 
 
 
-![image](/images/aiflanders-logo.png)
+![image](/images/aiflanders-logo.png | width=100)
 
 
 
