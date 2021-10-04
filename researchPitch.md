@@ -1,11 +1,23 @@
 ---
 layout: default
-title: "Research Videos"
+title: "Flanders AI - Grand Challenge 4 - Work Package 2 - Research Videos"
 permalink: /researchvideos/
 ---
 
 # Human-like AI: Conversational Agents
-In the following videos our PhD students pitch their current research (2021) on conversational agents:
+In the [Flanders AI Research Program](https://www.flandersai.be/en) multiple research partners work on strategic research in artificial intelligence, based on the needs and demands of companies, organizations, the government, and citizens. The consortium works on different research challenges, so called Grand Challenges, in several domains.
+
+With five research teams from four different universities we research Conversational Agents within Grand Challenge 4 on Human-like AI.
+
+* Core PI: [Walter Daelemans](https://www.clips.uantwerpen.be/~walter/) (UAntwerpen)
+* Co-PI's:
+  * [Véronique Hoste](https://www.lt3.ugent.be/people/veronique-hoste/) (UGent)
+  * [Chris Develder](http://users.atlantis.ugent.be/cdvelder/) (UGent)
+  * [Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/) (KULeuven)
+  * [Katrien Beuls](https://ai.vub.ac.be/team/katrien-beuls/) (VUB)  
+
+
+In the following videos our PhD students pitch their current research (2021) on Conversational Agents:
 
 
 ## Visual Dialogue
