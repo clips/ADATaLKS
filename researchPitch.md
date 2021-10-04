@@ -18,6 +18,7 @@ With five research teams from four different universities we research Conversati
 
 
 In the following videos our PhD students pitch their current research (2021) on Conversational Agents:
+
 ![image](/images/aiflanders-logo_Xsmall.png)
 
 
