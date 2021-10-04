@@ -10,10 +10,14 @@ In the following videos our PhD students pitch their current research (2021) on 
 
 ## Visual Dialogue
 Research by Mingxiao Li from [LIIR](https://liir.cs.kuleuven.be) - KULeuven
-<video src="https://user-images.githubusercontent.com/58225321/135623484-e83bd354-38c3-4137-9a45-d69a979a9650.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://user-images.githubusercontent.com/58225321/135808567-d6aaf420-f6c0-47cd-91da-2df939ad5ef6.mp4" controls="controls" style="max-width: 730px;">
 </video>
 <br>
 <br>
+
+
+
+
 
 ## Modelling Emotion Trajectories in Customer Service Dialogues 
 Research by Sofie Labat from [LT3](https://lt3.ugent.be) - UGent
