@@ -11,7 +11,7 @@ With five research teams from four different universities we research Conversati
 
 * Core PI: 
   * [Walter Daelemans](https://www.clips.uantwerpen.be/~walter/) (UAntwerpen - CLiPS)
-  * Postdoc coordination: [Jeska Buhmann](https://www.uantwerpen.be/en/staff/jeska-buhmann/) (UAntwerpen - CLiPS)
+    * Postdoc coordination: [Jeska Buhmann](https://www.uantwerpen.be/en/staff/jeska-buhmann/) (UAntwerpen - CLiPS)
 * Co-PI's:
   * [Véronique Hoste](https://www.lt3.ugent.be/people/veronique-hoste/) (UGent - LT3)
   * [Chris Develder](http://users.atlantis.ugent.be/cdvelder/) (UGent - IDLab)
