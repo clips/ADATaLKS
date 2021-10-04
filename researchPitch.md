@@ -13,11 +13,12 @@ With five research teams from four different universities we research Conversati
   * [Walter Daelemans](https://www.clips.uantwerpen.be/~walter/) (UAntwerpen - CLiPS)
   * Postdoc coordination: [Jeska Buhmann](https://www.uantwerpen.be/en/staff/jeska-buhmann/) (UAntwerpen - CLiPS)
 * Co-PI's:
-  * [Véronique Hoste](https://www.lt3.ugent.be/people/veronique-hoste/) (UGent)
-  * [Chris Develder](http://users.atlantis.ugent.be/cdvelder/) (UGent)
-    * [Thomas Demeester](https://tdmeeste.github.io/) (UGent)
-  * [Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/) (KULeuven)
-  * [Katrien Beuls](https://ai.vub.ac.be/team/katrien-beuls/) (VUB)  
+  * [Véronique Hoste](https://www.lt3.ugent.be/people/veronique-hoste/) (UGent - LT3)
+  * [Chris Develder](http://users.atlantis.ugent.be/cdvelder/) (UGent - IDLab)
+    * Extra supervision: [Thomas Demeester](https://tdmeeste.github.io/) (UGent - IDLab)
+  * [Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/) (KULeuven - LIIR)
+  * [Katrien Beuls](https://ai.vub.ac.be/team/katrien-beuls/) (VUB - AILab)
+    * Extra supervision: [Paul Van Eecke](https://ai.vub.ac.be/team/paul-van-eecke/) (VUB - AILab)  
 
 
 In the following videos our PhD students pitch their current research (2021) on Conversational Agents:
