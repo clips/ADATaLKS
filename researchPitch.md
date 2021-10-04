@@ -9,10 +9,13 @@ In the [Flanders AI Research Program](https://www.flandersai.be/en) multiple res
 
 With five research teams from four different universities we research Conversational Agents within Grand Challenge 4 on Human-like AI.
 
-* Core PI: [Walter Daelemans](https://www.clips.uantwerpen.be/~walter/) (UAntwerpen)
+* Core PI: 
+  * [Walter Daelemans](https://www.clips.uantwerpen.be/~walter/) (UAntwerpen - CLiPS)
+  * Postdoc coordination: [Jeska Buhmann](https://www.uantwerpen.be/en/staff/jeska-buhmann/) (UAntwerpen - CLiPS)
 * Co-PI's:
   * [Véronique Hoste](https://www.lt3.ugent.be/people/veronique-hoste/) (UGent)
   * [Chris Develder](http://users.atlantis.ugent.be/cdvelder/) (UGent)
+    * [Thomas Demeester](https://tdmeeste.github.io/) (UGent)
   * [Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/) (KULeuven)
   * [Katrien Beuls](https://ai.vub.ac.be/team/katrien-beuls/) (VUB)  
 
