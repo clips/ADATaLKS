@@ -36,7 +36,7 @@ Research by [Mingxiao Li](https://www.kuleuven.be/wieiswie/nl/person/00113732) f
 
 ## Modelling Emotion Trajectories in Customer Service Dialogues 
 Research by [Sofie Labat](https://lt3.ugent.be/people/sofie-labat/) from [LT3](https://lt3.ugent.be) - UGent
-<video src="https://user-images.githubusercontent.com/58225321/135809331-0987a4f5-6696-4d99-beff-11ed5285ff91.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://user-images.githubusercontent.com/58225321/135809331-0987a4f5-6696-4d99-beff-11ed5285ff91.mp4" controls="controls" width="100%">
 </video>
 <br>
 <br>
@@ -44,7 +44,7 @@ Research by [Sofie Labat](https://lt3.ugent.be/people/sofie-labat/) from [LT3](h
 
 ## Building up Knowledge through Dialogue
 Research by [Lara Verheyen](https://ai.vub.ac.be/team/lara-verheyen/) from [AILab](https://ai.vub.ac.be/) - VUB
-<video src="https://user-images.githubusercontent.com/58225321/135647319-846f8ea7-4ae0-43ef-b406-98abe3b547e5.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://user-images.githubusercontent.com/58225321/135647319-846f8ea7-4ae0-43ef-b406-98abe3b547e5.mp4" controls="controls" width="100%">
 </video>
 <br>
 <br>
@@ -52,7 +52,7 @@ Research by [Lara Verheyen](https://ai.vub.ac.be/team/lara-verheyen/) from [AILa
 
 ## Knowledge Grounded Conversation with Pre-trained Models
 Research by [Ehsan Lotfi](https://www.uantwerpen.be/nl/personeel/ehsan-lotfi/) from [CLiPS](https://www.uantwerpen.be/en/research-groups/clips/) - UAntwerpen
-<video src="https://user-images.githubusercontent.com/58225321/135810008-7820b1df-5769-4c29-9dfd-e0b262f7b740.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://user-images.githubusercontent.com/58225321/135810008-7820b1df-5769-4c29-9dfd-e0b262f7b740.mp4" controls="controls" width="100%">
 </video>
 <br>
 <br>
@@ -60,7 +60,7 @@ Research by [Ehsan Lotfi](https://www.uantwerpen.be/nl/personeel/ehsan-lotfi/) f
 
 ## Multilingual FAQ
 Research by [Maxime De Bruyn](https://maximedb.vercel.app) from [CLiPS](https://www.uantwerpen.be/en/research-groups/clips/) - UAntwerpen
-<video src="https://user-images.githubusercontent.com/58225321/135610539-ef22392e-ce00-4af0-bd0b-ca144eea0596.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://user-images.githubusercontent.com/58225321/135610539-ef22392e-ce00-4af0-bd0b-ca144eea0596.mp4" controls="controls" width="100%">
 </video>
 
 [Dataset](https://huggingface.co/datasets/clips/mfaq) on HuggingFace
@@ -73,7 +73,7 @@ Research by [Maxime De Bruyn](https://maximedb.vercel.app) from [CLiPS](https://
 
 ## Task Oriented Dialogue based on Procedural Knowledge
 Research by [Yiwei Jiang](https://yiweijiang2015.github.io/) from [IDLab](https://www.ugent.be/ea/idlab/en) - UGent
-<video src="https://user-images.githubusercontent.com/58225321/135645841-bd60065a-9421-4a18-9926-d4e2f7e90248.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://user-images.githubusercontent.com/58225321/135645841-bd60065a-9421-4a18-9926-d4e2f7e90248.mp4" controls="controls" width="100%">
 </video>
 <br>
 <br>
