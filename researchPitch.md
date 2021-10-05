@@ -28,7 +28,7 @@ In the following videos our PhD students pitch their current research (2021) on 
 
 ## Visual Dialogue
 Research by [Mingxiao Li](https://www.kuleuven.be/wieiswie/nl/person/00113732) from [LIIR](https://liir.cs.kuleuven.be) - KULeuven
-<video src="https://user-images.githubusercontent.com/58225321/135808567-d6aaf420-f6c0-47cd-91da-2df939ad5ef6.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://user-images.githubusercontent.com/58225321/135808567-d6aaf420-f6c0-47cd-91da-2df939ad5ef6.mp4" controls="controls" width="100%">
 </video>
 <br>
 <br>
