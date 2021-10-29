@@ -13,32 +13,32 @@ The focus of ADA TaLKS is on enabling a flexible method for incorporating and up
 - [Ehsan Lotfi](https://www.uantwerpen.be/en/staff/ehsan-lotfi/)
 
 ## Publications
-[Teach Me What to Say and I Will Learn What to Pick: Unsupervised Knowledge Selection Through Response Generation with Pretrained Generative Models](https://arxiv.org/pdf/2110.02067.pdf)
-<br>Ehsan Lotfi, Maxime De Bruyn, Jeska Buhmann and Walter Daelemans
-<br>*arXiv preprint arXiv:2110.02067*
+[Teach Me What to Say and I Will Learn What to Pick: Unsupervised Knowledge Selection Through Response Generation with Pretrained Generative Models](https://arxiv.org/pdf/2110.02067.pdf)  
+Ehsan Lotfi, Maxime De Bruyn, Jeska Buhmann and Walter Daelemans   
+*arXiv preprint arXiv:2110.02067*
 
-[MFAQ: a Multilingual FAQ Dataset](https://arxiv.org/pdf/2109.12870.pdf)
-<br>Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans
-<br>*arXiv preprint arXiv:2109.12870*
+[MFAQ: a Multilingual FAQ Dataset](https://arxiv.org/pdf/2109.12870.pdf)  
+Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans  
+*arXiv preprint arXiv:2109.12870*
 
-[ConveRT for FAQ Answering](https://arxiv.org/pdf/2108.00719.pdf)
-<br>Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans
-<br>*arXiv preprint arXiv:2108.00719*
+[ConveRT for FAQ Answering](https://arxiv.org/pdf/2108.00719.pdf)  
+Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans  
+*arXiv preprint arXiv:2108.00719*
 
 [BART for Knowledge Grounded Conversations](http://ceur-ws.org/Vol-2666/KDD_Converse20_paper_7.pdf)  
-<br>Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans  
-<br>Workshop on *Conversational Systems Towards Mainstream Adoption*, KDD Converse 2020  
+Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans  
+Workshop on *Conversational Systems Towards Mainstream Adoption*, KDD Converse 2020  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fmg9jUPktyU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Proofs of Technology
 #### VaccinChat
 We developed a Dutch chatbot that answers FAQ's on COVID-19 vaccines and the Flemish vaccination strategy: 
-[vaccinchat.be](https://vaccinchat.be/)
+[vaccinchat.be](https://vaccinchat.be/)  
 <video src="https://user-images.githubusercontent.com/58225321/139436299-ec6127fe-064f-4adb-808b-1b61efde23f6.mp4" controls="controls" width="100%">
 </video>
 
-This project also gave us insight in [the evolution of user questions over time](https://app.flourish.studio/visualisation/6517886)
+This project also gave us insight in [the evolution of user questions over time](https://app.flourish.studio/visualisation/6517886)  
 
 
 
