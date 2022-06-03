@@ -13,21 +13,21 @@ The focus of ADA TaLKS is on enabling a flexible method for incorporating and up
 - [Ehsan Lotfi](https://www.uantwerpen.be/en/staff/ehsan-lotfi/)
 
 ## Publications
-[Teach Me What to Say and I Will Learn What to Pick: Unsupervised Knowledge Selection Through Response Generation with Pretrained Generative Models](https://arxiv.org/pdf/2110.02067.pdf)  
+[Teach Me What to Say and I Will Learn What to Pick: Unsupervised Knowledge Selection Through Response Generation with Pretrained Generative Models](https://aclanthology.org/2021.nlp4convai-1.24/)  
 Ehsan Lotfi, Maxime De Bruyn, Jeska Buhmann and Walter Daelemans   
-*arXiv preprint arXiv:2110.02067*
+*NLP4ConvAI 2021*
 
-[MFAQ: a Multilingual FAQ Dataset](https://arxiv.org/pdf/2109.12870.pdf)  
+[MFAQ: a Multilingual FAQ Dataset](https://aclanthology.org/2021.mrqa-1.1/)  
 Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans  
-*arXiv preprint arXiv:2109.12870*
+*MRQA 2021*
 
 [ConveRT for FAQ Answering](https://arxiv.org/pdf/2108.00719.pdf)  
 Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans  
-*arXiv preprint arXiv:2108.00719*
+*Bnaic/benelearn 2021*
 
 [BART for Knowledge Grounded Conversations](http://ceur-ws.org/Vol-2666/KDD_Converse20_paper_7.pdf)  
 Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans  
-Workshop on *Conversational Systems Towards Mainstream Adoption*, KDD Converse 2020  
+*KDD Converse 2020*  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fmg9jUPktyU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
