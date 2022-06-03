@@ -21,7 +21,7 @@ Ehsan Lotfi, Maxime De Bruyn, Jeska Buhmann and Walter Daelemans
 Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans  
 *MRQA 2021*
 
-[ConveRT for FAQ Answering](https://arxiv.org/pdf/2108.00719.pdf)  
+[ConveRT for FAQ Answering](https://arxiv.org/abs/2108.00719)  
 Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans  
 *Bnaic/benelearn 2021*
 
