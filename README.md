@@ -20,15 +20,18 @@ Ehsan Lotfi, Maxime De Bruyn, Jeska Buhmann and Walter Daelemans
 
 [MFAQ: a Multilingual FAQ Dataset](https://aclanthology.org/2021.mrqa-1.1/)  
 Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans  
-*MRQA 2021*
+*MRQA 2021*  
+[bibtex](citations/2021.mrqa-1.1.bib)
 
 [ConveRT for FAQ Answering](https://arxiv.org/abs/2108.00719)  
 Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans  
-*Bnaic/benelearn 2021*
+*Bnaic/benelearn 2021*  
+[bibtex](citations/debruyn2021_convert.bib)
 
 [BART for Knowledge Grounded Conversations](http://ceur-ws.org/Vol-2666/KDD_Converse20_paper_7.pdf)  
 Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans  
 *KDD Converse 2020*  
+[bibtex](debruyn2020_bartforknowledge.bib)  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fmg9jUPktyU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
