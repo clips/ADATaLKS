@@ -38,7 +38,7 @@ We developed a Dutch chatbot that answers FAQ's on COVID-19 vaccines and the Fle
 <video src="https://user-images.githubusercontent.com/58225321/139436299-ec6127fe-064f-4adb-808b-1b61efde23f6.mp4" controls="controls" width="100%">
 </video>
 
-This project also gave us insight in [the evolution of user questions over time](https://app.flourish.studio/visualisation/6517886)  
+This project also gave us insight in [the evolution of user questions over time](https://public.flourish.studio/visualisation/6517886/)  
 
 
 
