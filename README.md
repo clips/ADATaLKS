@@ -31,7 +31,7 @@ Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans
 [BART for Knowledge Grounded Conversations](http://ceur-ws.org/Vol-2666/KDD_Converse20_paper_7.pdf)  
 Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans  
 *KDD Converse 2020*  
-[bibtex](debruyn2020_bartforknowledge.bib)  
+[bibtex](citations/debruyn2020_bartforknowledge.bib)  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fmg9jUPktyU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
