@@ -13,6 +13,11 @@ The focus of ADA TaLKS is on enabling a flexible method for incorporating and up
 - [Ehsan Lotfi](https://www.uantwerpen.be/en/staff/ehsan-lotfi/)
 
 ## Publications
+[Domain- and Task-Adaptation for VaccinChatNL, a Dutch COVID-19 FAQ Answering Corpus and Classification Model](https://aclanthology.org/2022.coling-1.312/)  
+Jeska Buhmann, Maxime De Bruyn, Ehsan Lotfi and Walter Daelemans  
+*COLING 2022*  
+[bibtex](citations/2022.coling-1.312.bib) | **Outstanding paper**
+
 [Teach Me What to Say and I Will Learn What to Pick: Unsupervised Knowledge Selection Through Response Generation with Pretrained Generative Models](https://aclanthology.org/2021.nlp4convai-1.24/)  
 Ehsan Lotfi, Maxime De Bruyn, Jeska Buhmann and Walter Daelemans   
 *NLP4ConvAI 2021*  
