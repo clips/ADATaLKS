@@ -18,6 +18,11 @@ Jeska Buhmann, Maxime De Bruyn, Ehsan Lotfi and Walter Daelemans
 *COLING 2022*  
 [bibtex](citations/2022.coling-1.312.bib) | **Outstanding paper**
 
+[Open-Domain Dialog Evaluation Using Follow-Ups Likelihood](https://aclanthology.org/2022.coling-1.40)  
+Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans  
+*COLING 2022*  
+[bibtex](citations/2022.coling-1.40)
+
 [Teach Me What to Say and I Will Learn What to Pick: Unsupervised Knowledge Selection Through Response Generation with Pretrained Generative Models](https://aclanthology.org/2021.nlp4convai-1.24/)  
 Ehsan Lotfi, Maxime De Bruyn, Jeska Buhmann and Walter Daelemans   
 *NLP4ConvAI 2021*  
