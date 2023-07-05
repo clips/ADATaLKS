@@ -16,17 +16,17 @@ The focus of ADA TaLKS is on enabling a flexible method for incorporating and up
 [20Q: Overlap-Free World Knowledge Benchmark for Language Models](https://aclanthology.org/2022.gem-1.46/)  
 Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans  
 *GEM 2022*  
-[bibtex](citations/2022.gem-1.46)
+[bibtex](citations/2022.gem-1.46.bib)
 
 [Is It Smaller Than a Tennis Ball? Language Models Play the Game of Twenty Questions](https://aclanthology.org/2022.blackboxnlp-1.7/)  
 Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans  
 *BlackboxNLP 2022*  
-[bibtex](citations/2022.blackboxnlp-1.7)
+[bibtex](citations/2022.blackboxnlp-1.7.bib)
 
 [Machine Translation for Multilingual Intent Detection and Slots Filling](https://aclanthology.org/2022.mmnlu-1.8/)  
 Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans  
 *MMNLU 2022*  
-[bibtex](citations/2022.mmnlu-1.8)
+[bibtex](citations/2022.mmnlu-1.8.bib)
 
 [Domain- and Task-Adaptation for VaccinChatNL, a Dutch COVID-19 FAQ Answering Corpus and Classification Model](https://aclanthology.org/2022.coling-1.312/)  
 Jeska Buhmann, Maxime De Bruyn, Ehsan Lotfi and Walter Daelemans  
@@ -36,7 +36,7 @@ Jeska Buhmann, Maxime De Bruyn, Ehsan Lotfi and Walter Daelemans
 [Open-Domain Dialog Evaluation Using Follow-Ups Likelihood](https://aclanthology.org/2022.coling-1.40)  
 Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans  
 *COLING 2022*  
-[bibtex](citations/2022.coling-1.40)
+[bibtex](citations/2022.coling-1.40.bib)
 
 [Teach Me What to Say and I Will Learn What to Pick: Unsupervised Knowledge Selection Through Response Generation with Pretrained Generative Models](https://aclanthology.org/2021.nlp4convai-1.24/)  
 Ehsan Lotfi, Maxime De Bruyn, Jeska Buhmann and Walter Daelemans   
