@@ -13,6 +13,11 @@ The focus of ADA TaLKS is on enabling a flexible method for incorporating and up
 - [Ehsan Lotfi](https://www.uantwerpen.be/en/staff/ehsan-lotfi/)
 
 ## Publications
+[The Effects of Expressing Empathy/Autonomy Support Using a COVID-19 Vaccination Chatbot: Experimental Study in a Sample of Belgian Adults](https://formative.jmir.org/2023/1/e41148)  
+Wojciech Trzebiński, Toni Claessens, Jeska Buhmann, Aurélie De Waele, Greet Hendrickx, Pierre Van Damme, Walter Daelemans, Karolien Poels  
+*JMIR Form Res 2023*  
+[bibtex](formative_v7i1e41148.bib)
+
 [20Q: Overlap-Free World Knowledge Benchmark for Language Models](https://aclanthology.org/2022.gem-1.46/)  
 Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans  
 *GEM 2022*  
