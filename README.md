@@ -13,6 +13,21 @@ The focus of ADA TaLKS is on enabling a flexible method for incorporating and up
 - [Ehsan Lotfi](https://www.uantwerpen.be/en/staff/ehsan-lotfi/)
 
 ## Publications
+[20Q: Overlap-Free World Knowledge Benchmark for Language Models](https://aclanthology.org/2022.gem-1.46/)  
+Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans  
+*GEM 2022*  
+[bibtex](citations/2022.gem-1.46)
+
+[Is It Smaller Than a Tennis Ball? Language Models Play the Game of Twenty Questions](https://aclanthology.org/2022.blackboxnlp-1.7/)  
+Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans  
+*BlackboxNLP 2022*  
+[bibtex](citations/2022.blackboxnlp-1.7)
+
+[Machine Translation for Multilingual Intent Detection and Slots Filling](https://aclanthology.org/2022.mmnlu-1.8/)  
+Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann and Walter Daelemans  
+*MMNLU 2022*  
+[bibtex](citations/2022.mmnlu-1.8)
+
 [Domain- and Task-Adaptation for VaccinChatNL, a Dutch COVID-19 FAQ Answering Corpus and Classification Model](https://aclanthology.org/2022.coling-1.312/)  
 Jeska Buhmann, Maxime De Bruyn, Ehsan Lotfi and Walter Daelemans  
 *COLING 2022*  
